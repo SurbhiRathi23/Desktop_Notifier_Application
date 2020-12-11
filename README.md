@@ -3,5 +3,5 @@
 This application notifies the user about the real time covid 19
 cases. The data is fetched from an official website.
 
-<img src="2.jpeg" style="height:200px" alt="Screenshot of the running project"/>
+<img src="2.jpeg" style="height:100px" alt="Screenshot of the running project"/>
 # My cool project and above is the logo of it
